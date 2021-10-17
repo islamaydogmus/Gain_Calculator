@@ -1,4 +1,7 @@
 # Gain Calculator
+
+![Example](https://github.com/islamaydogmus/Gain_Calculator/blob/main/Images/example.png)
+
 Calculates the gain of your investment (just EUR/TRY for now) by sending a notification.
 
 'setting.json' has 3 parameters:  
